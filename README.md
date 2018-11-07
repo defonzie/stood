@@ -9,6 +9,6 @@ Example usage:
 
 int main()
 {
-    stood::cout << "Hello World!" << stood:endl;
+    stood::cout << "Hello World!" << stood::endl;
 }
 ```
